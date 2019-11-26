@@ -1,0 +1,17 @@
+E:\ZnZ\C#\Генератор баз\Генератор баз\bin\x64\Release\Генератор баз.exe.config
+E:\ZnZ\C#\Генератор баз\Генератор баз\bin\x64\Release\Генератор баз.exe
+E:\ZnZ\C#\Генератор баз\Генератор баз\bin\x64\Release\Генератор баз.pdb
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\Генератор баз.csprojAssemblyReference.cache
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\MainWindow.g.cs
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\App.g.cs
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\Генератор баз_MarkupCompile.cache
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\Генератор баз_MarkupCompile.lref
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\App.baml
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\MainWindow.baml
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\Генератор баз.g.resources
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\Генератор_баз.Properties.Resources.resources
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\Генератор баз.csproj.GenerateResource.cache
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\Генератор баз.csproj.CoreCompileInputs.cache
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\Генератор баз.exe
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x64\Release\Генератор баз.pdb

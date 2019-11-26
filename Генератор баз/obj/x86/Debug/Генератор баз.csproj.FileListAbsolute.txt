@@ -1,0 +1,17 @@
+E:\ZnZ\C#\Генератор баз\Генератор баз\bin\x86\Debug\Генератор баз.exe.config
+E:\ZnZ\C#\Генератор баз\Генератор баз\bin\x86\Debug\Генератор баз.exe
+E:\ZnZ\C#\Генератор баз\Генератор баз\bin\x86\Debug\Генератор баз.pdb
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\Генератор баз.csprojAssemblyReference.cache
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\MainWindow.g.cs
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\App.g.cs
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\Генератор баз_MarkupCompile.cache
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\Генератор баз_MarkupCompile.lref
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\App.baml
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\MainWindow.baml
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\Генератор баз.g.resources
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\Генератор_баз.Properties.Resources.resources
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\Генератор баз.csproj.GenerateResource.cache
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\Генератор баз.csproj.CoreCompileInputs.cache
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\Генератор баз.exe
+E:\ZnZ\C#\Генератор баз\Генератор баз\obj\x86\Debug\Генератор баз.pdb
